@@ -15,10 +15,9 @@ This repository includes:
 ## 🛠️ Getting Started
 To run the Kotlin files, you'll need:
 
-- Kotlin compiler or
-- An IDE like IntelliJ IDEA (recommended)
+- Kotlin compiler or An IDE like IntelliJ IDEA (recommended)
 
-
+You can find the compiler and install instructions **[here](https://kotlinlang.org/docs/command-line.html)**\
 To compile and run from the command line:
 ```bash
 filename.kt -include-runtime -d filename.jar
